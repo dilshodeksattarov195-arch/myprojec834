@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpender",
+        "uuid": 1257672,
+        "checksum": "qma1s"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
